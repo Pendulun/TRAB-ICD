@@ -1,0 +1,5 @@
+1 - H0 - A proporção de estudantes internacionais impacta no ranking da universidade		(Intervalo de confiança)
+2 - H0 - Universidades mais disputadas (com menos alunos) possuem classificações melhores	(Intervalo de confiança)
+	|-> Se influencia, temos como prever a pontuação final da universidade dado o número de alunos?	(Regressão)
+3 - Detectar se a proporção entre homens e mulheres teve uma tendencia geral ao longo do tempo
+4 - Podemos prever a posição/pontuação média das universidades de um país dado o seu investimento em educação? (Regressão)
