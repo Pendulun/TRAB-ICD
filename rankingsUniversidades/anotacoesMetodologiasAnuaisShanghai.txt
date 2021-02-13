@@ -1,0 +1,28 @@
+Indicadores: http://www.shanghairanking.com/index.html#
+	Alumni: The total number of the alumni of an institution winning Nobel Prizes and Fields Medals. Alumni are defined
+	 as those who obtain bachelor's, master's or doctoral degrees from the institution.
+
+	Award: The total number of the staff of an institution winning Nobel Prizes in Physics, Chemistry, Medicine
+	 and Economics and Fields Medal in Mathematics. Staff is defined as those who work at an institution at the time
+	 of winning the prize.
+
+	HiCi: The number of highly cited researchers in 21 subject categories. These individuals are the most highly cited within each category
+
+	N&S: The number of papers published in Nature and Science
+
+	PUB: Total number of papers indexed in Science Citation Index-Expanded and Social Science Citation Index.Only publications of 'Article'
+	 and 'Proceedings Paper' types are considered.
+
+	PCP: The weighted scores of the above five indicators divided by the number of full-time equivalent academic staff. If the number of
+	 academic staff for institutions of a country cannot be obtained, the weighted scores of the above five indicators is used.
+
+	Categoria		Indicador	% total da nota
+	Quality of Education	Alumni		10%
+	Quality of Faculty	Award		20%
+	Quality of Faculty	HiCi		20%
+	Research Output		N&S		20%
+	Research Output		PUB		20%
+	Per Capita Performance	PCP		10%
+
+
+	
