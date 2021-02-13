@@ -24,5 +24,7 @@ Indicadores: http://www.shanghairanking.com/index.html#
 	Research Output		PUB		20%
 	Per Capita Performance	PCP		10%
 
+	OBS.:O ranking mundial passa de um número inteiro para uma faixa depois de um certo ranking.
+
 
 	
