@@ -1,0 +1,117 @@
+2011: https://www.timeshighereducation.com/world-university-rankings-2010-11-methodology
+
+Categorias:
+
+Teaching: This broad category employs five separate indicators designed to provide a clear sense of the teaching and learning environment
+ of each institution, from both the student and academic perspective.
+
+Industry Income: This category is designed to cover an institution's knowledge-transfer activity. 
+
+Citations: A university's research influence — as measured by the number of times its published work is cited by academics. This weighting
+ reflects the relatively high level of confidence the global academic community has in the indicator as a proxy for research quality.
+
+Research: As with the teaching category, the most prominent indicator in research volume, income and reputation is based on the results of
+ our reputational survey.
+
+International mix: Our final category looks at diversity on campus — a sign of how global an institution is in its outlook. The ability of
+ a university to attract the very best staff from across the world is key to global success.
+
+	Categoria	Indicador				% da Nota Total		Agregado na Categoria
+	Teaching	Reputation Survey			15			
+	Teaching	Staff-to-student ratio			4.5
+	Teaching	PhD-bachelor's ratio			2.25
+	Teaching	Postgraduate students ratio		6
+	Teaching	Income-academic staff ratio		2.25			30%
+	Income		Income from industry-academic staff	2.5			2.5%
+	Citations	Number of Citations			33			32.5%
+	Research	Reputation Survey			19.5
+	Research	Income-staff ratio			5.25
+	Research	Research output-staff ratio		4.5
+	Research	Public-total research income ratio	0.75			30%
+	International	International-National staff ratio	3
+	International 	International-National students ratio	2			5%
+
+2012: https://www.timeshighereducation.com/world-university-rankings-2011-12-methodology
+
+Categoria	Indicador				% da Nota Total		Agregado na Categoria
+	Teaching	Reputation Survey			15			
+	Teaching	Staff-to-student ratio			4.5
+	Teaching	PhD-bachelor's ratio			2.25
+	Teaching	Postgraduate students ratio		6
+	Teaching	Income-academic staff ratio		2.25			30%
+	Income		Income from industry-academic staff	2.5			2.5%
+	Citations	Number of Citations			30			30%
+	Research	Reputation Survey			18
+	Research	Income-staff ratio			6
+	Research	Research output-staff ratio		6			30%
+	International	International-National staff ratio	2.5
+	International 	International-National students ratio	2.5			
+	International	International Co-Author-papers ratio	2.5			7.5%
+
+2013: https://www.timeshighereducation.com/world-university-rankings-2012-13-methodology
+
+Categoria	Indicador				% da Nota Total		Agregado na Categoria
+	Teaching	Reputation Survey			15			
+	Teaching	Staff-to-student ratio			4.5
+	Teaching	PhD-bachelor's ratio			2.25
+	Teaching	Postgraduate students ratio		6
+	Teaching	Income-academic staff ratio		2.25			30%
+	Income		Income from industry-academic staff	2.5			2.5%
+	Citations	Number of Citations			30			30%
+	Research	Reputation Survey			18
+	Research	Income-staff ratio			6
+	Research	Research output-staff ratio		6			30%
+	International	International-National staff ratio	2.5
+	International 	International-National students ratio	2.5			
+	International	International Co-Author-papers ratio	2.5			7.5%
+
+2014: https://www.timeshighereducation.com/world-university-rankings/2014/world-ranking
+
+Categoria	Indicador				% da Nota Total		Agregado na Categoria
+	Teaching	Reputation Survey			15			
+	Teaching	Staff-to-student ratio			4.5
+	Teaching	PhD-bachelor's ratio			2.25
+	Teaching	Postgraduate students ratio		6
+	Teaching	Income-academic staff ratio		2.25			30%
+	Income		Income from industry-academic staff	2.5			2.5%
+	Citations	Number of Citations			30			30%
+	Research	Reputation Survey			18
+	Research	Income-staff ratio			6
+	Research	Research output-staff ratio		6			30%
+	International	International-National staff ratio	2.5
+	International 	International-National students ratio	2.5			
+	International	International Co-Author-papers ratio	2.5			7.5%
+
+2015: https://www.timeshighereducation.com/world-university-rankings-2014-15-methodology
+
+Categoria	Indicador				% da Nota Total		Agregado na Categoria
+	Teaching	Reputation Survey			15			
+	Teaching	Staff-to-student ratio			4.5
+	Teaching	PhD-bachelor's ratio			2.25
+	Teaching	Postgraduate students ratio		6
+	Teaching	Income-academic staff ratio		2.25			30%
+	Income		Income from industry-academic staff	2.5			2.5%
+	Citations	Number of Citations			30			30%
+	Research	Reputation Survey			18
+	Research	Income-staff ratio			6
+	Research	Research output-staff ratio		6			30%
+	International	International-National staff ratio	2.5
+	International 	International-National students ratio	2.5			
+	International	International Co-Author-papers ratio	2.5			7.5%
+
+2016: https://www.timeshighereducation.com/news/ranking-methodology-2016
+
+Categoria	Indicador				% da Nota Total		Agregado na Categoria
+	Teaching	Reputation Survey			15			
+	Teaching	Staff-to-student ratio			4.5
+	Teaching	PhD-to-bachelor’s ratio			2.25
+	Teaching	PhD awarded-academic staff ratio	6
+	Teaching	Income-academic staff ratio		2.25			30%
+	Income		Income from industry-academic staff	2.5			2.5%
+	Citations	Number of Citations			30			30%
+	Research	Reputation Survey			18
+	Research	Income-staff ratio			6
+	Research	Research output-staff ratio		6			30%
+	International	International-National staff ratio	2.5
+	International 	International-National students ratio	2.5			
+	International	International Co-Author-papers ratio	2.5			7.5%
