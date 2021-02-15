@@ -18,7 +18,7 @@ Ireland,All Institutions ,Public,4.7,4.1,4.3,6.0,6.0,5.7
 Israel,All Institutions ,Public,,6.6,6.2,5.8,5.9,5.6
 Italy,All Institutions ,Public,4.5,4.5,4.3,4.5,4.3,4.2
 Japan,All Institutions ,Public,3.6,3.5,3.4,3.6,3.6,3.6
-Korea, Republic of,All Institutions ,Public,3.6,4.3,4.9,4.8,4.9
+Korea,All Institutions ,Public,3.6,4.3,4.3,4.9,4.8,4.9
 Luxembourg,All Institutions ,Public,4.3,,,,,
 Mexico,All Institutions ,Public,4.6,4.7,5.3,5.0,5.1,5.0
 Netherlands,All Institutions ,Public,4.6,4.3,4.6,5.3,5.4,5.3
@@ -55,7 +55,7 @@ Ireland,Elementary and Secondary Institutions ,Public,3.3,2.9,3.3,4.6,4.6,4.4
 Israel,Elementary and Secondary Institutions ,Public,,4.5,4.2,3.8,4.0,3.8
 Italy,Elementary and Secondary Institutions ,Public,3.2,3.2,3.2,3.3,3.1,3.0
 Japan,Elementary and Secondary Institutions ,Public,2.8,2.7,2.6,2.7,2.8,2.7
-Korea, Republic of,Elementary and Secondary Institutions ,Public,3.0,3.3,3.4,3.6,3.4
+Korea,Elementary and Secondary Institutions ,Public,3.0,3.3,3.4,3.6,3.4,3.4
 Luxembourg,Elementary and Secondary Institutions ,Public,4.2,,3.7,3.2,3.4,3.3
 Mexico,Elementary and Secondary Institutions ,Public,3.4,3.3,3.7,3.3,3.4,3.3
 Netherlands,Elementary and Secondary Institutions ,Public,3.0,3.0,3.3,3.7,3.7,3.6
@@ -71,8 +71,8 @@ Switzerland,Elementary and Secondary Institutions ,Public,4.1,3.8,3.9,3.8,3.6,3.
 Turkey,Elementary and Secondary Institutions ,Public,1.4,2.4,,,2.5,
 United Kingdom,Elementary and Secondary Institutions ,Public,3.8,3.4,3.8,4.5,4.8,4.4
 United States,Elementary and Secondary Institutions ,Public,3.5,3.5,3.6,3.8,3.7,3.4
-  Brazil,Elementary and Secondary Institutions ,Public,,,3.3,4.3,4.3,4.4
-  Russian Federation,Elementary and Secondary Institutions ,Public,1.9,1.7,1.9,2.3,2.0,2.0
+Brazil,Elementary and Secondary Institutions ,Public,,,3.3,4.3,4.3,4.4
+Russian Federation,Elementary and Secondary Institutions ,Public,1.9,1.7,1.9,2.3,2.0,2.0
 OECD Average,Higher Education Institutions ,Public,0.9,1.0,1.0,1.1,1.1,1.1
 Australia,Higher Education Institutions ,Public,1.2,0.8,0.8,0.7,0.8,0.7
 Austria,Higher Education Institutions ,Public,0.9,1.2,1.2,1.4,1.5,1.4
@@ -92,7 +92,7 @@ Ireland,Higher Education Institutions ,Public,0.9,1.2,1.0,1.4,1.3,1.2
 Israel,Higher Education Institutions ,Public,,1.1,1.0,1.0,1.0,0.9
 Italy,Higher Education Institutions ,Public,0.7,0.7,0.6,0.8,0.8,0.8
 Japan,Higher Education Institutions ,Public,0.4,0.5,0.5,0.5,0.5,0.5
-Korea, Republic of,Higher Education Institutions ,Public,0.3,0.6,0.6,0.7,0.7
+Korea,Higher Education Institutions ,Public,0.3,0.6,0.6,0.7,0.7,0.7
 Luxembourg,Higher Education Institutions ,Public,0.1,,,,,
 Mexico,Higher Education Institutions ,Public,0.8,0.8,0.9,1.0,1.0,0.9
 Netherlands,Higher Education Institutions ,Public,1.1,1.0,1.0,1.2,1.3,1.3
@@ -108,8 +108,8 @@ Switzerland,Higher Education Institutions ,Public,1.1,1.2,1.4,1.4,1.3,1.3
 Turkey,Higher Education Institutions ,Public,0.8,1.0,,,,
 United Kingdom,Higher Education Institutions ,Public,0.7,0.7,0.9,0.6,0.7,0.9
 United States,Higher Education Institutions ,Public,1.1,0.8,1.0,1.1,1.0,0.9
-  Brazil,Higher Education Institutions ,Public,,,0.8,0.8,0.9,0.9
-  Russian Federation,Higher Education Institutions ,Public,0.7,0.5,0.8,1.2,1.0,0.9
+Brazil,Higher Education Institutions ,Public,,,0.8,0.8,0.9,0.9
+Russian Federation,Higher Education Institutions ,Public,0.7,0.5,0.8,1.2,1.0,0.9
 OECD Average,All Institutions ,Private,,,,,,0.9
 Australia,All Institutions ,Private,,,,,,1.5
 Austria,All Institutions ,Private,,,,,,0.2
@@ -129,7 +129,7 @@ Ireland,All Institutions ,Private,,,,,,0.5
 Israel,All Institutions ,Private,,,,,,1.7
 Italy,All Institutions ,Private,,,,,,0.4
 Japan,All Institutions ,Private,,,,,,1.6
-Korea, Republic of,All Institutions ,Private,,,,,2.8
+Korea,All Institutions ,Private,,,,,,2.8
 Luxembourg,All Institutions ,Private,,,,,,
 Mexico,All Institutions ,Private,,,,,,1.1
 Netherlands,All Institutions ,Private,,,,,,0.9
@@ -145,8 +145,8 @@ Switzerland,All Institutions ,Private,,,,,,0.4
 Turkey,All Institutions ,Private,,,,,,
 United Kingdom,All Institutions ,Private,,,,,,0.8
 United States,All Institutions ,Private,,,,,,2.2
-  Brazil,All Institutions ,Private,,,,,,
-  Russian Federation,All Institutions ,Private,,,,,,0.7
+Brazil,All Institutions ,Private,,,,,,
+Russian Federation,All Institutions ,Private,,,,,,0.7
 OECD Average,Elementary and Secondary Institutions ,Private,,,,,,0.3
 Australia,Elementary and Secondary Institutions ,Private,,,,,,0.6
 Austria,Elementary and Secondary Institutions ,Private,,,,,,0.1
@@ -166,7 +166,7 @@ Ireland,Elementary and Secondary Institutions ,Private,,,,,,0.2
 Israel,Elementary and Secondary Institutions ,Private,,,,,,0.4
 Italy,Elementary and Secondary Institutions ,Private,,,,,,0.1
 Japan,Elementary and Secondary Institutions ,Private,,,,,,0.2
-Korea, Republic of,Elementary and Secondary Institutions ,Private,,,,,0.8
+Korea,Elementary and Secondary Institutions ,Private,,,,,,0.8
 Luxembourg,Elementary and Secondary Institutions ,Private,,,,,,0.1
 Mexico,Elementary and Secondary Institutions ,Private,,,,,,0.6
 Netherlands,Elementary and Secondary Institutions ,Private,,,,,,0.4
@@ -182,8 +182,8 @@ Switzerland,Elementary and Secondary Institutions ,Private,,,,,,0.5
 Turkey,Elementary and Secondary Institutions ,Private,,,,,,
 United Kingdom,Elementary and Secondary Institutions ,Private,,,,,,0.4
 United States,Elementary and Secondary Institutions ,Private,,,,,,0.3
-  Brazil,Elementary and Secondary Institutions ,Private,,,,,,
-  Russian Federation,Elementary and Secondary Institutions ,Private,,,,,,0.1
+Brazil,Elementary and Secondary Institutions ,Private,,,,,,
+Russian Federation,Elementary and Secondary Institutions ,Private,,,,,,0.1
 OECD Average,Higher Education Institutions ,Private,,,,,,0.5
 Australia,Higher Education Institutions ,Private,,,,,,0.9
 Austria,Higher Education Institutions ,Private,,,,,,0.1
@@ -203,7 +203,7 @@ Ireland,Higher Education Institutions ,Private,,,,,,0.3
 Israel,Higher Education Institutions ,Private,,,,,,0.8
 Italy,Higher Education Institutions ,Private,,,,,,0.2
 Japan,Higher Education Institutions ,Private,,,,,,1.0
-Korea, Republic of,Higher Education Institutions ,Private,,,,,1.9
+Korea,Higher Education Institutions ,Private,,,,,,1.9
 Luxembourg,Higher Education Institutions ,Private,,,,,,
 Mexico,Higher Education Institutions ,Private,,,,,,0.4
 Netherlands,Higher Education Institutions ,Private,,,,,,0.5
@@ -219,8 +219,8 @@ Switzerland,Higher Education Institutions ,Private,,,,,,
 Turkey,Higher Education Institutions ,Private,,,,,,
 United Kingdom,Higher Education Institutions ,Private,,,,,,0.3
 United States,Higher Education Institutions ,Private,,,,,,1.8
-  Brazil,Higher Education Institutions ,Private,,,,,,
-  Russian Federation,Higher Education Institutions ,Private,,,,,,0.5
+Brazil,Higher Education Institutions ,Private,,,,,,
+Russian Federation,Higher Education Institutions ,Private,,,,,,0.5
 OECD Average,All Institutions ,Total,,,,,,6.1
 Australia,All Institutions ,Total,,,,,,5.8
 Austria,All Institutions ,Total,,,,,,5.7
@@ -240,7 +240,7 @@ Ireland,All Institutions ,Total,,,,,,6.2
 Israel,All Institutions ,Total,,,,,,7.3
 Italy,All Institutions ,Total,,,,,,4.6
 Japan,All Institutions ,Total,,,,,,5.1
-Korea, Republic of,All Institutions ,Total,,,,,7.6
+Korea,All Institutions ,Total,,,,,,7.6
 Luxembourg,All Institutions ,Total,,,,,,
 Mexico,All Institutions ,Total,,,,,,6.2
 Netherlands,All Institutions ,Total,,,,,,6.2
@@ -256,8 +256,8 @@ Switzerland,All Institutions ,Total,,,,,,5.6
 Turkey,All Institutions ,Total,,,,,,
 United Kingdom,All Institutions ,Total,,,,,,6.4
 United States,All Institutions ,Total,,,,,,6.9
-  Brazil,All Institutions ,Total,,,,,,
-  Russian Federation,All Institutions ,Total,,,,,,4.6
+Brazil,All Institutions ,Total,,,,,,
+Russian Federation,All Institutions ,Total,,,,,,4.6
 OECD Average,Elementary and Secondary Institutions ,Total,,,,,,3.8
 Australia,Elementary and Secondary Institutions ,Total,,,,,,4.1
 Austria,Elementary and Secondary Institutions ,Total,,,,,,3.6
@@ -277,7 +277,7 @@ Ireland,Elementary and Secondary Institutions ,Total,,,,,,4.6
 Israel,Elementary and Secondary Institutions ,Total,,,,,,4.2
 Italy,Elementary and Secondary Institutions ,Total,,,,,,3.1
 Japan,Elementary and Secondary Institutions ,Total,,,,,,2.9
-Korea, Republic of,Elementary and Secondary Institutions ,Total,,,,,4.1
+Korea,Elementary and Secondary Institutions ,Total,,,,,,4.1
 Luxembourg,Elementary and Secondary Institutions ,Total,,,,,,3.4
 Mexico,Elementary and Secondary Institutions ,Total,,,,,,4.0
 Netherlands,Elementary and Secondary Institutions ,Total,,,,,,4.0
@@ -293,8 +293,8 @@ Switzerland,Elementary and Secondary Institutions ,Total,,,,,,4.0
 Turkey,Elementary and Secondary Institutions ,Total,,,,,,
 United Kingdom,Elementary and Secondary Institutions ,Total,,,,,,4.7
 United States,Elementary and Secondary Institutions ,Total,,,,,,3.7
-  Brazil,Elementary and Secondary Institutions ,Total,,,,,,
-  Russian Federation,Elementary and Secondary Institutions ,Total,,,,,,2.1
+Brazil,Elementary and Secondary Institutions ,Total,,,,,,
+Russian Federation,Elementary and Secondary Institutions ,Total,,,,,,2.1
 OECD Average,Higher Education Institutions ,Total,,,,,,1.6
 Australia,Higher Education Institutions ,Total,,,,,,1.6
 Austria,Higher Education Institutions ,Total,,,,,,1.5
@@ -314,7 +314,7 @@ Ireland,Higher Education Institutions ,Total,,,,,,1.5
 Israel,Higher Education Institutions ,Total,,,,,,1.7
 Italy,Higher Education Institutions ,Total,,,,,,1.0
 Japan,Higher Education Institutions ,Total,,,,,,1.6
-Korea, Republic of,Higher Education Institutions ,Total,,,,,2.6
+Korea,Higher Education Institutions ,Total,,,,,,2.6
 Luxembourg,Higher Education Institutions ,Total,,,,,,
 Mexico,Higher Education Institutions ,Total,,,,,,1.3
 Netherlands,Higher Education Institutions ,Total,,,,,,1.8
@@ -330,5 +330,5 @@ Switzerland,Higher Education Institutions ,Total,,,,,,
 Turkey,Higher Education Institutions ,Total,,,,,,
 United Kingdom,Higher Education Institutions ,Total,,,,,,1.2
 United States,Higher Education Institutions ,Total,,,,,,2.7
-  Brazil,Higher Education Institutions ,Total,,,,,,
-  Russian Federation,Higher Education Institutions ,Total,,,,,,1.4
+Brazil,Higher Education Institutions ,Total,,,,,,
+Russian Federation,Higher Education Institutions ,Total,,,,,,1.4
