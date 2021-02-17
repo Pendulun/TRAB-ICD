@@ -31,6 +31,8 @@ International mix: Our final category looks at diversity on campus — a sign of
 	International	International-National staff ratio	3
 	International 	International-National students ratio	2			5%
 
+Exemplo de cálculo de nota final: Harvard - 2011 -> ((99.7*30)+(72.4*5)+(98.7*30)+(98.8*32.5)+(34.5*2.5))/(100) = 96.1125 mais ou menos 96.1
+
 2012: https://www.timeshighereducation.com/world-university-rankings-2011-12-methodology
 
 Categoria	Indicador				% da Nota Total		Agregado na Categoria
